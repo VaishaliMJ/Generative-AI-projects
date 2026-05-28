@@ -2,7 +2,7 @@
                         Mock Interview :    utilityFunctions.py
                     (Student name - Vaishali Jorwekar)
 --------------------------------------------------------------------------------------------------------
-Problem statement   :  Mock Interview :    tilityFunctions.py
+Problem statement   :  Mock Interview :    utilityFunctions.py
 --------------------------------------------------------------------------------------------------------"""
 import streamlit as st
 import pandas as pd
