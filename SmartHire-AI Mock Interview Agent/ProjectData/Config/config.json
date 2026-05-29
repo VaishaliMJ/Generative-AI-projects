@@ -1,0 +1,8 @@
+{
+    "USER":MySql User,
+    "PASSWORD":MySql Password,
+    "DATABASE":Create Database in MySql,
+    "HOST":"localhost",
+    "QUESTION_BANK_TABLE":Data Base Table Name
+}
+    
