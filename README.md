@@ -16,3 +16,12 @@ Generative-AI projects
           </td>
           <td>Smart Hire : AI Mock Interview Agent</td>
         </tr>
+        <tr>
+          <td>
+            <a href = "https://github.com/VaishaliMJ/Generative-AI-projects/tree/main/FLAN T5%20Summariser%20and%20Q%26A%20Assistant">
+              Text Summarizer
+            </a>
+          </td>
+          <td>Text Summarizer</td>
+        </tr>
+
