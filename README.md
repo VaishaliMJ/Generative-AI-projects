@@ -18,7 +18,7 @@ Generative-AI projects
         </tr>
         <tr>
           <td>
-            <a href = "https://github.com/VaishaliMJ/Generative-AI-projects/tree/main/FLAN T5%20Summariser%20and%20Q%26A%20Assistant">
+            <a href = "https://github.com/VaishaliMJ/Generative-AI-projects/tree/main/FLAN-T5%20Summariser%20and%20Q%26A%20Assistant">
               Text Summarizer
             </a>
           </td>
