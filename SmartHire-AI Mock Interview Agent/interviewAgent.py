@@ -1,8 +1,9 @@
 """-----------------------------------------------------------------------------------------------------
-                        Mock Interview :    Mock Test 
+                        Mock Interview :    interviewAgent.py
                     (Student name - Vaishali Jorwekar)
 --------------------------------------------------------------------------------------------------------
-Problem statement   :  Mock Interview :    Mock Test 
+Problem statement   :  Mock Interview :    interviewAgent.py 
+                    Genrated Prompt to be sent to LLM
 --------------------------------------------------------------------------------------------------------"""
  #Import ask_llm function
 # Used to communicate with Llama3 model

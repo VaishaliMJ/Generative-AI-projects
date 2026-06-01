@@ -1,9 +1,8 @@
 """-----------------------------------------------------------------------------------------------------
-                        Mock Interview :    Main.py
+                        Mock Interview :    llm_engine.py
                     (Student name - Vaishali Jorwekar)
 --------------------------------------------------------------------------------------------------------
-Problem statement   :  Marvellous SmartHire - AI Mock Interview Agent 
---------------------------------------------------------------------------------------------------------
+Problem statement   :  Marvellous SmartHire - llm_engine.py
                     Implement AI-based answer evaluation, performance analysis, 
                     and automated report generation for interview preparation.
 --------------------------------------------------------------------------------------------------------"""

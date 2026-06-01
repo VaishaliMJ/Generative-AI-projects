@@ -3,6 +3,7 @@
                     (Student name - Vaishali Jorwekar)
 --------------------------------------------------------------------------------------------------------
 Problem statement   :  Mock Interview :    studentDetails.py
+                    Load User details from database
 --------------------------------------------------------------------------------------------------------"""
 import streamlit as st
 import pandas as pd
