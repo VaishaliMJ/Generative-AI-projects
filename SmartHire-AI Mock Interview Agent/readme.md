@@ -92,5 +92,6 @@ Ensure you have the following libraries installed on your local machine:
 *  Follow screen instructions
 
 ### Mock Test UI:
+  <img src="UserInterface/Project Interface.png" alt="Project Interface" width="500"/>
 
   
