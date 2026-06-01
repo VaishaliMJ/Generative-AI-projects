@@ -1,7 +1,18 @@
 ##  👩‍💼💻🤖 Marvellous SmartHire – AI Mock Interview Agent
 ### Overview 
-An AI-powered Mock Interview System capable of conducting technical interviews and
-evaluating candidate answers intelligently
+This project is as Audio-text based **AI-Mock Interview Agent**.It conducts technical interviews,accepts students answers in audio format and converts is into text. Sends those answers to the locally running **Llama3 Large language model(LLM) through Ollama**,receives intelligent evaluation,extracts scores,maintains interview history and finally generates a detailed report.Report is sent via Email to concerned person and student as well
+
+#### Main Objective
+  The main objective of this project is to help students prcatice technical interview based on AI systems.The project helps understand
+*  Generative AI
+*  AI Agents
+*  LLM Integration
+*  Prompt Engineering
+*  Interview Automation
+*  Answer Evaluation
+*  Report Generation
+*  Automatic Email sent on completeion
+  
 #### 🔑 Key Features:
 *	**Interactive UI**  :  Its a Streamlit based web application for mock test.
 *	**Login and Registration**  :  Used Login and Registration page for valid user login using streamlit
@@ -10,18 +21,66 @@ evaluating candidate answers intelligently
 *	**Evaluation By LLM**  :  Integrated Large Language Models (LLMs) to analyze question-by-question responses, and provide                                   detailed feedback with scoring.
 *	**Report Generation**  :  Implemented AI-based answer evaluation, performance analysis, and automated report generation for
                           interview preparation and Email Facilty 
-• **Generative AI**  :  Applied concepts of Generative AI, Prompt Engineering, AI Agents, and conversational intelligence to
+* **Generative AI**  :  Applied concepts of Generative AI, Prompt Engineering, AI Agents, and conversational intelligence to
                         simulate real interview environments.
 ---
 ## 🛠️ Tech Stack
-*   **Frontend**  :  Streamlit
-*   **Backend**  :  Python
-*   **Database**  :  MySql
+<table>
+      <thead>
+        <tr>
+          <th>Technology</th>
+          <th>Purpose</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Python</td>
+          <td>Main Programming Language</td>
+        </tr>
+        <tr>
+          <td>Streamlit</td>
+          <td>Web UI</td>
+        </tr>
+        <tr>
+          <td>audio input</td>
+          <td>Accepts user answers in audio format</td>
+        </tr>
+        <tr>
+          <td>Ollma</td>
+          <td>Runs Local LLM</td>
+        </tr>
+        <tr>
+          <td>Llama3</td>
+          <td>Evaluates students answers</td>
+        </tr>
+        <tr>
+          <td>requests</td>
+          <td>Sends API requests to Olama3</td>
+        </tr>
+       <tr>
+          <td>os</td>
+          <td>Creates USER LOGS folder </td>
+        </tr>
+        <tr>
+          <td>datetime</td>
+          <td>Generates timestamps for logs</td>
+        </tr>
+        <tr>
+          <td>Log files</td>
+          <td>Stores generated log files</td>
+        </tr>
+        <tr>
+          <td>MySql</td>
+          <td>Stores technical question bank</td>
+        </tr>
+      </tbody>
+</table>  
   
 ---
 
 ## 🚀 Getting Started
 
 Ensure you have the following installed on your local machine:
-*	pip install pandas numpy matplotlib scikit-learn joblib streamlit_<br>
-*	update config.json,.env  for API Key
+*	pip install pandas numpy matplotlib scikit-learn joblib streamlit ollama smtplib mysql-connector-python  <br>
+*	update config.json,.env  for API Keys
+  
