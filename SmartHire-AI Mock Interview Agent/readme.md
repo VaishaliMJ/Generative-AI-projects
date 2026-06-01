@@ -2,7 +2,7 @@
 ### Overview 
 This project is as Audio-text based **AI-Mock Interview Agent**.It conducts technical interviews,accepts students answers in audio format and converts is into text. Sends those answers to the locally running **Llama3 Large language model(LLM) through Ollama**,receives intelligent evaluation,extracts scores,maintains interview history and finally generates a detailed report.Report is sent via Email to concerned person and student as well
 
-#### Main Objective
+#### 🎯 Main Objective
   The main objective of this project is to help students prcatice technical interview based on AI systems.The project helps understand
 *  Generative AI
 *  AI Agents
@@ -24,7 +24,7 @@ This project is as Audio-text based **AI-Mock Interview Agent**.It conducts tech
 * **Generative AI**  :  Applied concepts of Generative AI, Prompt Engineering, AI Agents, and conversational intelligence to
                         simulate real interview environments.
 ---
-## 🛠️ Tech Stack
+## 🛠️ 💻 Tech Stack
 <table>
       <thead>
         <tr>
@@ -79,8 +79,18 @@ This project is as Audio-text based **AI-Mock Interview Agent**.It conducts tech
 ---
 
 ## 🚀 Getting Started
-
-Ensure you have the following installed on your local machine:
-*	pip install pandas numpy matplotlib scikit-learn joblib streamlit ollama smtplib mysql-connector-python  <br>
+### Pre-requistic
+Ensure you have the following libraries installed on your local machine:
+*	pip install pandas numpy streamlit ollama smtplib mysql-connector-python  <br>
 *	update config.json,.env  for API Keys
+*	Create Question database using "QuestionBank.sql" located at Project data.Update "QuestionBank.sql" for questions
+*	Update studentData.csv
+  
+### Project Flow
+*  Start Ollama server
+*  🚀 Run application "streamlit run main.py"
+*  Follow screen instructions
+
+### Mock Test UI:
+
   
