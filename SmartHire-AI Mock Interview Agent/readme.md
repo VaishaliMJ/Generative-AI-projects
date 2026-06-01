@@ -90,8 +90,14 @@ Ensure you have the following libraries installed on your local machine:
 *  Start Ollama server
 *  🚀 Run application "streamlit run main.py"
 *  Follow screen instructions
+*  On completion of test an email is sent to teacher/Examiner
 
 ### Mock Test UI:
   <img src="UserInterface/Project Interface.png" alt="Project Interface" width="500"/>
 
+ --- 
+#### ✍️ Author
+ Vaishali M. Jorwekar<br>
+ Date	:28 May 2026
+  
   
