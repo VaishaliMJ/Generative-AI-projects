@@ -90,6 +90,7 @@ Ensure you have the following libraries installed on your local machine:
 *  Start Ollama server
 *  🚀 Run application "streamlit run main.py"
 *  Follow screen instructions
+*  After answering each question it sent to locally running llama for evaluation
 *  On completion of test an email is sent to teacher/Examiner
 
 ### Mock Test UI:
