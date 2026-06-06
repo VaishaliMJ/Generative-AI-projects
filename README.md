@@ -18,6 +18,14 @@ Generative-AI projects
         </tr>
         <tr>
           <td>
+            <a href = "https://github.com/VaishaliMJ/Generative-AI-projects/tree/main/Intelligent%20Document%20Question%20Answering%20System%20using%20RAG%20%26%20LLMs">
+              Intelligent Document Question Answering System using RAG & LLMs
+            </a>
+          </td>
+          <td>Intelligent Document Question Answering System using RAG & LLMs</td>
+        </tr>    
+        <tr>
+          <td>
             <a href = "https://github.com/VaishaliMJ/Generative-AI-projects/tree/main/FLAN-T5%20Summariser%20and%20Q%26A%20Assistant">
               Text Summarizer
             </a>
