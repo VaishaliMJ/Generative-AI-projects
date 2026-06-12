@@ -58,6 +58,39 @@ The system reads the document extracts the content,converts the text into embedd
 </table>  
   
 ---
+### 📌 Objective
+To build an AI-Powered Document question answering system using Retrieval Augmented Generation(RAG) and Large Language Models(LLM)
+The Project aims to
+*  Upload PDF Document
+*  Extract Text from the document
+*  Split text into chunks
+*  Generate Embeddings
+*  Store Embeddings in vector database
+*  Retrieve Relevent Information
+*  Generate intelligent answers
+*  Generate an interactive AI Based System
+
+### 🚀 Project Workflow
+*  User Uploads the PDF
+*  PyPDF2 extracts the text
+*  Text is divied into chunks
+*  Sentence Transformers convert text into embeddings
+*  FAISS vector database is used to store Embeddings
+*  User enters the question as a input
+*  Question is converted into embeddings
+*  FAISS seraches similar vectors
+*  Most relevent chunks are retieved
+*  Context and question are combined into a prompt
+*  Prompt is sent to Llamma3 using Ollama
+*  Llama3 generates final answer
+*  Answer is displayed on streamlit interface
+
+---
+
+#### ✍️ Author
+Vaishali M. Jorwekar<br>
+Date	: 12 Jun 2026
+  
 
   
   
