@@ -3,7 +3,7 @@
 This project is as Audio-text based **AI-Mock Interview Agent**.It conducts technical interviews,accepts students answers in audio format and converts is into text. Sends those answers to the locally running **Llama3 Large language model(LLM) through Ollama**,receives intelligent evaluation,extracts scores,maintains interview history and finally generates a detailed report.Report is sent via Email to concerned person and student as well
 
 #### 🎯 Main Objective
-  The main objective of this project is to help students prcatice technical interview based on AI systems.The project helps understand
+  The main objective of this project is to help students practice technical interview based on AI systems.The project helps understand
 *  Generative AI
 *  AI Agents
 *  LLM Integration
