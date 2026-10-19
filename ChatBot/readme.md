@@ -13,7 +13,7 @@ This project is as text based **ChatBot**.It accepts ths user query using a text
 #### 🔑 Key Features:
 *	**Interactive UI**     :  Its a Streamlit based web application for user query.
 *	**Evaluation By LLM**  :  Integrated Large Language Models (LLMs) to analyze question-by-question responses, and provide answer to                              the user
-*	**Chat History**       :  Maintained user chat history using by two types temporary and Permanent using SQLLite 
+*	**Chat History**       :  Maintained user chat history using SQLLite 
 * **Generative AI**      :  Applied concepts of Generative AI, Prompt Engineering, AI Agents,LangChain,LangGraph and conversational                               intelligence to simulate real time chat history.
 ---
 ## 🛠️ 💻 Tech Stack
